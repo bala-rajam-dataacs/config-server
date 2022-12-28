@@ -6,3 +6,5 @@ eureka:
       defaultZone: "http://172.17.6.9:8080/service-registry/eureka"
   instance:
     hostname: "172.17.6.9"
+common:
+  name: "Spring"
